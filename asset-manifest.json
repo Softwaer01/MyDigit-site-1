@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MyDigit-site/static/css/main.088123e0.css",
-    "main.js": "/MyDigit-site/static/js/main.3951eaa4.js",
+    "main.css": "/MyDigit-site/static/css/main.1bf32ee2.css",
+    "main.js": "/MyDigit-site/static/js/main.d12f049e.js",
     "static/media/about.png": "/MyDigit-site/static/media/about.f5e5688eb9cf1d1e7423.png",
     "static/media/hero.png": "/MyDigit-site/static/media/hero.b90c978b6d2487e34e53.png",
     "static/media/map.png": "/MyDigit-site/static/media/map.a57473ecbe78f6e51d28.png",
@@ -18,11 +18,11 @@
     "static/media/blob-top-left.png": "/MyDigit-site/static/media/blob-top-left.2cc27755bce10065fbc7.png",
     "static/media/team-3.jpg": "/MyDigit-site/static/media/team-3.4ee8961b275f2bd5129c.jpg",
     "index.html": "/MyDigit-site/index.html",
-    "main.088123e0.css.map": "/MyDigit-site/static/css/main.088123e0.css.map",
-    "main.3951eaa4.js.map": "/MyDigit-site/static/js/main.3951eaa4.js.map"
+    "main.1bf32ee2.css.map": "/MyDigit-site/static/css/main.1bf32ee2.css.map",
+    "main.d12f049e.js.map": "/MyDigit-site/static/js/main.d12f049e.js.map"
   },
   "entrypoints": [
-    "static/css/main.088123e0.css",
-    "static/js/main.3951eaa4.js"
+    "static/css/main.1bf32ee2.css",
+    "static/js/main.d12f049e.js"
   ]
 }
