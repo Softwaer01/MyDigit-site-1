@@ -34,8 +34,7 @@ const NavbarHero = () => {
             <Link to="/about" className="nav-item nav-link">About</Link>
             <Link to="/service" className="nav-item nav-link">Service</Link>
             <Link to="/project" className="nav-item nav-link">Project</Link>
-            <Link to="/contact" className="nav-item nav-link">Contact</Link>
-
+           
             <div className="nav-item dropdown">
               <a href="#" className="nav-link dropdown-toggle" data-bs-toggle="dropdown">
                 Pages
@@ -48,9 +47,10 @@ const NavbarHero = () => {
             </div>
 
             <Link to="/contact" className="nav-item nav-link">Contact</Link>
+            <Link to="/login" className="nav-item nav-link text-primary fw-bold">Login</Link>
           </div>
 
-          <Link to="/contact" className="btn rounded-pill py-2 px-4 ms-3 d-none d-lg-block">
+          <Link to="/login" className="btn rounded-pill py-2 px-4 ms-3 d-none d-lg-block">
             Get Started
           </Link>
 

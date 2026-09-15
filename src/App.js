@@ -12,6 +12,7 @@ import Team from "./components/Team";
 import Newsletter from "./components/Newsletter";
 import Footer from "./components/Footer";
 import Contact from "./components/Contact";
+import Login from "./components/Login";
 
 import "./App.css";
 
@@ -60,6 +61,8 @@ function App() {
 
 
         <Route path="/contact" element={<Contact />} />
+
+        <Route path="/login" element={<Login />} />
 
       </Routes>
 
